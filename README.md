@@ -11,3 +11,7 @@ New York Citi Bike data visualizations for August 2019
 <img width="993" alt="Screen Shot 2021-06-23 at 3 58 15 PM" src="https://user-images.githubusercontent.com/77812423/123160179-de241e00-d43b-11eb-979c-fea2b7e77878.png">
 
 - In the image "Checkout Times for Users" it shows the duration of the bike trips in minutes. The majority of trips are under 20 minutes, and it most significant volume is of trips is 5 minutes.
+
+<img width="986" alt="Screen Shot 2021-06-23 at 4 08 22 PM" src="https://user-images.githubusercontent.com/77812423/123161384-517a5f80-d43d-11eb-8ad7-e9421e6d8ace.png">
+
+- Male users take approximately 3 times more rides than the female users.
