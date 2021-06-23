@@ -27,3 +27,12 @@ Trips By Gender (Weekday Per Hour)" shows the quantity of bicycles utilized duri
 
 "Trips By Gender By Weekday" shows what sort of client utilizes the bicycle share program on anytime, supporters and clients. Supporters are returning clients, and clients are arranged as single ride clients. More clients recognizing as either guys or females are endorsers, while most clients under the client classifications are recorded as sexual orientation obscure. Female bicycle endorsers are least well known on Wednesdays. Male bicycle endorsers are generally well known on Thursdays, yet most days have high utilization for male supporters all in all. For clients, the most noteworthy bicycle use time is on Saturdays and Sundays.
 
+## Summary 
+The data shows high activity of the bike sharing service in New York during the month of August 2019.
+The far majority of the rides were in  Manhattan, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+Additional analysis would be beneficial by :
+
+- comparing data for different months to determine trends across the year,
+- including weather data to find the correlation between the weather and the rides.
+
+
