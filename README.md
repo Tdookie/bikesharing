@@ -35,4 +35,6 @@ Additional analysis would be beneficial by :
 - comparing data for different months to determine trends across the year,
 - including weather data to find the correlation between the weather and the rides.
 
+[link to dashboard](https://public.tableau.com/app/profile/tyler6443/viz/TableauChallenge_16244797404690/Challenge)
+
 
