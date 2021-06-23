@@ -9,4 +9,5 @@ New York Citi Bike data visualizations for August 2019
 - There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
 - Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 <img width="993" alt="Screen Shot 2021-06-23 at 3 58 15 PM" src="https://user-images.githubusercontent.com/77812423/123160179-de241e00-d43b-11eb-979c-fea2b7e77878.png">
+
 - In the image "Checkout Times for Users" it shows the duration of the bike trips in minutes. The majority of trips are under 20 minutes, and it most significant volume is of trips is 5 minutes.
