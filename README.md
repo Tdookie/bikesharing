@@ -18,3 +18,7 @@ New York Citi Bike data visualizations for August 2019
 
 <img width="518" alt="Screen Shot 2021-06-23 at 4 10 33 PM" src="https://user-images.githubusercontent.com/77812423/123161603-956d6480-d43d-11eb-8f55-c02b7de51f15.png">
 "Trips by Weekday Per Hour" shows the quantity of bicycles utilized during the non-weekend days of great importance. The morning times of heavy traffic are between 7 am and 9 pm. The pinnacle hour is 8 am. The evening busy times are between 4 pm and 7 pm, with the evening top hours are 5 pm and 6 pm.
+
+<img width="985" alt="Screen Shot 2021-06-23 at 4 13 55 PM" src="https://user-images.githubusercontent.com/77812423/123161979-1167ac80-d43e-11eb-99d7-6e55b7d24358.png">
+
+Trips By Gender (Weekday Per Hour)" shows the quantity of bicycles utilized during the work days of great importance by sexual orientation. During the morning and evening times of heavy traffic, male bikers are right around multiple times more than female bikers.
