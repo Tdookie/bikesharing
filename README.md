@@ -22,3 +22,8 @@ New York Citi Bike data visualizations for August 2019
 <img width="985" alt="Screen Shot 2021-06-23 at 4 13 55 PM" src="https://user-images.githubusercontent.com/77812423/123161979-1167ac80-d43e-11eb-99d7-6e55b7d24358.png">
 
 Trips By Gender (Weekday Per Hour)" shows the quantity of bicycles utilized during the work days of great importance by sexual orientation. During the morning and evening times of heavy traffic, male bikers are right around multiple times more than female bikers.
+
+<img width="353" alt="Screen Shot 2021-06-23 at 4 15 50 PM" src="https://user-images.githubusercontent.com/77812423/123162173-4a078600-d43e-11eb-98ad-65d8a682640f.png">
+
+"Trips By Gender By Weekday" shows what sort of client utilizes the bicycle share program on anytime, supporters and clients. Supporters are returning clients, and clients are arranged as single ride clients. More clients recognizing as either guys or females are endorsers, while most clients under the client classifications are recorded as sexual orientation obscure. Female bicycle endorsers are least well known on Wednesdays. Male bicycle endorsers are generally well known on Thursdays, yet most days have high utilization for male supporters all in all. For clients, the most noteworthy bicycle use time is on Saturdays and Sundays.
+
